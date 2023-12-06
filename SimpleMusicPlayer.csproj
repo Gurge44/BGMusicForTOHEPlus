@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="icon.ico" />
+    <EmbeddedResource Include="Tracks\A New Tomorrow.mp3" />
+    <EmbeddedResource Include="Tracks\AlienHand - Above the Asteroids Eve Online Remix.mp3" />
+    <EmbeddedResource Include="Tracks\Clemens Ruh - Defiance.mp3" />
+    <EmbeddedResource Include="Tracks\Dublicator - Infinite ___ Origin.mp3" />
+    <EmbeddedResource Include="Tracks\Fallout 1 OST - Vault of the Future [Vault 13].mp3" />
+    <EmbeddedResource Include="Tracks\Grains Of Sound - Better Living Through Chemistry.mp3" />
+    <EmbeddedResource Include="Tracks\Half-Life 3 Unofficial Soundtrack - Limited Exposure.mp3" />
+    <EmbeddedResource Include="Tracks\Isydia Coro - Embark.mp3" />
+    <EmbeddedResource Include="Tracks\MogueHeart - Memories From Beyond.mp3" />
+    <EmbeddedResource Include="Tracks\Mogueheart - Myriads of Stars.mp3" />
+    <EmbeddedResource Include="Tracks\NEREUS - Pathways.mp3" />
+    <EmbeddedResource Include="Tracks\Nynja - Drifting Into Hazardous Zones.mp3" />
+    <EmbeddedResource Include="Tracks\Phobium - Headroom (Remix 3).mp3" />
+    <EmbeddedResource Include="Tracks\Phobium - Phantom Vibrations.mp3" />
+    <EmbeddedResource Include="Tracks\Phobium - The Bird, The Bus And Renoise.exe.mp3" />
+    <EmbeddedResource Include="Tracks\Procyon B - Citadel.mp3" />
+    <EmbeddedResource Include="Tracks\Procyon B - Mind the Rift.mp3" />
+    <EmbeddedResource Include="Tracks\Tim Kossmann – A Strange Place.mp3" />
+  </ItemGroup>
+
+</Project>
